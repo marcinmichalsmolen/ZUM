@@ -9,4 +9,4 @@ Do odszumiania wykorzystano spacy i listę dla polskiego języka pl_core_news_md
 
 Na początku do analizy sentymentu została wykorzystana została biblioteka TextBlob 
 Do tokenizacji nltk.tokenize
-Do klasyfikacji użyto narzędzi z pakietu sklearn m.in naiwny klasyfikator Bayesa BernoulliNB 
+Do klasyfikacji użyto narzędzi z pakietu sklearn m.in naiwny klasyfikator Bayesa BernoulliNB oraz LinearSVC
