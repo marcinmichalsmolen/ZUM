@@ -1,5 +1,7 @@
 # zum_nlp
-ZUM NLP - Przetwarzanie języka naturalnego
+ZUM - Zastosowania Uczenia Maszynowego
+
+Projekt 2
 
 Celem projektu jest stworzenie analizatora sentymentu do analizy polaryzacji społeczeństwa w Polsce na podstawie tweetów na temat COVID-19
 
